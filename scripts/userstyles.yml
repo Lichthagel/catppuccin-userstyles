@@ -122,6 +122,9 @@ collaborators:
     url: https://github.com/Guaxinim5573
   - &trinkey
     url: https://github.com/trinkey
+  - &lichthagel
+    name: Lichthagel
+    url: https://github.com/Lichthagel
 
 userstyles:
   advent-of-code:
@@ -242,6 +245,12 @@ userstyles:
     readme:
       app-link: "https://crowdin.com"
       current-maintainers: [*ryanccn]
+  crunchyroll:
+    name: Crunchyroll
+    categories: [entertainment]
+    readme:
+      app-link: "https://crunchyroll.com"
+      current-maintainers: [*lichthagel]
   deepl:
     name: DeepL
     categories: [translation_tool, productivity]
